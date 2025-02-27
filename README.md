@@ -27,6 +27,7 @@ This repository implements the **Fuzzy Adaptive RRT*N (FA-RRT*N)** algorithm, a 
 git clone https://github.com/yourusername/FA-RRT-starN-CARLA.git
 cd FA-RRT-starN-CARLA
 pip install -r requirements.txt
+```
 CARLA Setup
 Download CARLA 0.9.14 from the official site.
 
@@ -34,15 +35,16 @@ Extract and run CarlaUE4.sh (Linux) or CarlaUE4.exe (Windows).
 
 Usage
 Run FA-RRT*N
-bash
-Copy
+```bash
 python src/FA-RRT_star_N.py
+```
 CARLA Simulation
-bash
-Copy
+
+
 # Start CARLA server
+```bash
 ./CarlaUE4.sh
 
 # Run simulation script
 python src/FA-RRT_star_N_CARLA.py
-Demo
+```
