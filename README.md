@@ -5,7 +5,7 @@ Implements FA-RRTN, a fuzzy logic-enhanced RRT variant, to optimize path plannin
 [![CARLA 0.9.14](https://img.shields.io/badge/CARLA-0.9.14-green)](https://carla.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange)](LICENSE)
 
-<img src="assets/RRT_vs_FA-RRTN.png" width="700" alt="Performance Comparison">
+<img src="RRT_vs_FA-RRTN.png" width="700" alt="Performance Comparison">
 
 ## Overview  
 This repository implements the **Fuzzy Adaptive RRT*N (FA-RRT*N)** algorithm, a high-efficiency path planner for autonomous vehicles. By integrating fuzzy logic with normal distribution-guided node generation, FA-RRT*N achieves **84% faster computation** and **68% fewer nodes** compared to traditional RRT*. Validated in CARLA, a realistic autonomous driving simulator.
