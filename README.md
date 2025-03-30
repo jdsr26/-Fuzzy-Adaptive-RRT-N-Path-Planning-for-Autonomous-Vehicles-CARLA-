@@ -48,3 +48,4 @@ CARLA Simulation
 # Run simulation script
 python src/FA-RRT_star_N_CARLA.py
 ```
+Demo Video can be found at ```https://www.youtube.com/watch?v=uBteTbpqdzo```
